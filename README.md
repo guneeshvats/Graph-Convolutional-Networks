@@ -1,6 +1,7 @@
 # 🚀 Graph Convolutional Networks
 
 A PyTorch implementation of **Graph Convolutional Networks (GCNs)** based on the work by Kipf and Welling [[1]](#1). This repository offers a hands-on notebook and dataset to get you started with GCNs quickly and easily.
+The implementation also follows an application based example. 
 
 ---
 
