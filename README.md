@@ -30,3 +30,5 @@ Graph-Convolutional-Networks/
 
 <a id="1">[1]</a> Kipf, T. N., & Welling, M. (2017). 
 [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907). arXiv:1609.02907.
+
+## Future Work 
